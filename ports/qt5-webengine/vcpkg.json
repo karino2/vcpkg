@@ -23,6 +23,10 @@
       "platform": "!windows"
     },
     {
+        "name": "vcpkg-get-python-packages",
+        "host": true
+    },
+    {
       "name": "qt5-base",
       "default-features": false,
       "features": [
